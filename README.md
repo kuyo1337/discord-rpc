@@ -1,5 +1,5 @@
 # discord rpc
-idk i only saw people using nodejs for the rpc thing so i decided to make this
+idk i only saw people using nodejs for the rpc thing so i decided to make this/n
 some parts of the websocket is pasted from cheddlatron selfbot,feel free to check it out
 and no this project is not vibe coded(except the readme ofc)
 ## Install
