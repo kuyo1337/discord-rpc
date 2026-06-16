@@ -33,5 +33,4 @@ Edit `config.py` and configure:
 ## Notes
 
 * This project uses Discord's RPC WebSocket connection for custom Rich Presence.
-* Make sure Discord is running before starting the client.
-* Custom image assets must be uploaded in the Discord Developer Portal.
+* If ur got banned using this project its on you buddy
