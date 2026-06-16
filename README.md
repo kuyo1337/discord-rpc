@@ -1,8 +1,8 @@
 # Discord RPC
 
-A lightweight Python-based Discord Rich Presence client built over WebSocket RPC.
-(YES THIS README IS AI GENERATED)
-This project was created to provide a simple alternative to the more common Node.js implementations. Some portions of the WebSocket handling were inspired by Cheddlatron Selfbot and adapted for this project.
+A lightweight Python-based Discord Rich Presence client built on WebSocket RPC.
+
+This project was created as a simple alternative to the more common Node.js implementations. Parts of the WebSocket logic were inspired by Cheddlatron Selfbot and adapted for this project.
 
 ## Installation
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the client with:
+Run the client:
 
 ```bash
 python main.py
@@ -22,13 +22,16 @@ python main.py
 
 ## Configuration
 
-Edit the `config.py` file to customize your setup:
+Edit `config.py` and configure:
 
-* Add your Discord token
-* Configure Rich Presence details
-* Set image assets, activity text, and other RPC options
+* Your Discord token
+* Rich Presence details
+* Image assets
+* Activity text
+* Additional RPC settings
 
 ## Notes
 
 * This project uses Discord's RPC WebSocket connection for custom Rich Presence.
-* If ur got banned when using this its on you buddy
+* Make sure Discord is running before starting the client.
+* Custom image assets must be uploaded in the Discord Developer Portal.
